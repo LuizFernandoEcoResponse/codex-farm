@@ -1,0 +1,6 @@
+{
+  "title": "Eco Drain: estudo de viabilidade",
+  "goal": "Investigue famílias de líquidos industriais, tecnologias de detecção, sensores e interferentes, hardware, arquitetura hidráulica, firmware e IoT, custos do protótipo e metodologia de validação. Para cada afirmação, registre fontes verificáveis, evidências e incertezas; faça revisão cruzada e não prometa detecção universal.",
+  "autonomy": "balanced",
+  "budget_usd": 10
+}
